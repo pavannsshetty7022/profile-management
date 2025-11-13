@@ -8,7 +8,7 @@ export default function AnanyaProfile() {
                 text1="I am Ananya Gupta, a passionate Data Analyst focusing on transforming data into actionable insights for decision-making."
                 text2="Proficient in Excel, Python, and SQL, I have developed dashboards and reports to improve strategic planning and operational efficiency."
             />
-            <VideoSection />
+
             <Footer name="Ananya Gupta" />
         </div>
     );
